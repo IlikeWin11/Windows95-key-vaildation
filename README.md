@@ -1,39 +1,30 @@
 # Windows95-key-vaildation
 
 #### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+通过Python来验证输入的Windows 95 产品ID是否有效，以及生成新的产品ID。
+ **本软件受Apache License 2.0制约。** 
 
 #### 软件架构
-软件架构说明
+支持 **x86, amd64** 
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  首先，[下载Python](https://www.python.org/downloads/)
+2.  安装Python
+3.  复制key.py源代码并保存到.py文件中并使用Python Launcher打开
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+1.  在主界面中输入1查看产品ID验证规则
+![产品ID验证规则](picture%E6%8D%95%E8%8E%B7.PNG)
+2.  在主界面中输入3生成产品ID
+![生成产品ID](picture%E6%8D%95%E8%8E%B72.PNG)
+3.  在 Windows 95 零售版安装程序中输入生成的产品ID
 
 
 #### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1.  快速生成产品ID。
+2.  验证产品ID是否有效。
+3.  查看产品ID验证规则。
