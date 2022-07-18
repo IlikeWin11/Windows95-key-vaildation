@@ -1,36 +1,26 @@
 # Windows95-key-vaildation
 
 #### Description
-{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
+Use Python to verify that the entered Windows 95 product ID is valid and generate a new product ID. This software is governed by the  **Apache License 2.0** .
 
 #### Software Architecture
-Software architecture description
+Support x86 and amd64.
 
 #### Installation
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  First, [download Python](https://www.python.org/downloads).
+2.  Install Python.
+3.  Copy key.py source code, save to .py file and open with Python Launcher.
 
 #### Instructions
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
+1.  Enter 1 in the main interface to view the product ID verification rules.
+2.  Enter 3 in the main interface to generate a product ID.
+3.  Enter the generated product ID in the Windows 95 Setup.
 
 #### Gitee Feature
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1.  Quickly generate product IDs.
+2.  Verify that the product ID is valid.
+3.  View product ID validation rules.
+
