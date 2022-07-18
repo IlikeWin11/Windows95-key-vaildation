@@ -18,7 +18,7 @@ Support x86 and amd64.
 2.  Enter 3 in the main interface to generate a product ID.
 3.  Enter the generated product ID in the Windows 95 Setup.
 
-#### Gitee Feature
+#### Software Feature
 
 1.  Quickly generate product IDs.
 2.  Verify that the product ID is valid.
