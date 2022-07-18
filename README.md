@@ -23,4 +23,3 @@ Support x86 and amd64.
 1.  Quickly generate product IDs.
 2.  Verify that the product ID is valid.
 3.  View product ID validation rules.
-4.  
